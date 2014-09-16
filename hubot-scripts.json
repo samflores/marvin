@@ -3,5 +3,7 @@
   "shipit.coffee",
   "ping.coffee",
   "pinkman.coffee",
-  "facepalm.coffee"
+  "facepalm.coffee",
+  "ruby.coffee",
+  "clojure.coffee"
 ]
