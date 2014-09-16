@@ -5,5 +5,6 @@
   "pinkman.coffee",
   "facepalm.coffee",
   "ruby.coffee",
-  "clojure.coffee"
+  "clojure.coffee",
+  "hangman.coffee"
 ]
